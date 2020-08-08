@@ -2,15 +2,4 @@
 ## [theaudiobible.org](http://theaudiobible.org/)
 #### Copyright (C) 2011-2020 Theophilus
 
-OSAB is a design for a portable audio Bible player released under the MIT Licence in the hope that it will be used by others worldwide to produce and distribute portable audio players that are specifically designed to share God's word with those who need to hear.
-
-The intention is to share firmware, software, schematics, PCB layout and enclosure design along with instructions on how to put it all together.  The intention with the enclosure is that it be 3D-printable on a low cost FDM 3D printer, or mass-producible via injection moulding.
-
-## osab-enclosure
-This is the repository for the 3D design files for the OSAB enclosure.
-
-### Dependencies
-The 3D design tool is [OpenSCAD](http://openscad.org/)
-
-### Licence
-This is open source hardware released under the MIT Licence - please see the LICENCE file in this directory.
+This repository has moved to [github.com/theaudiobible](https://github.com/theaudiobible)
